@@ -1,0 +1,6 @@
+/home/max/Projects/CPP/CmakeTest/build/CMakeFiles/CMAKETEST.dir
+/home/max/Projects/CPP/CmakeTest/build/CMakeFiles/edit_cache.dir
+/home/max/Projects/CPP/CmakeTest/build/CMakeFiles/rebuild_cache.dir
+/home/max/Projects/CPP/CmakeTest/build/src/thing/CMakeFiles/thing.dir
+/home/max/Projects/CPP/CmakeTest/build/src/thing/CMakeFiles/edit_cache.dir
+/home/max/Projects/CPP/CmakeTest/build/src/thing/CMakeFiles/rebuild_cache.dir

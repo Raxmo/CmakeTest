@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthing.a CMakeFiles/thing.dir/thing.cpp.o
+/usr/bin/ranlib libthing.a
